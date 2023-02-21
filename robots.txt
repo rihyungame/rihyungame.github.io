@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lookau1004.github.io/sitemap.xml
+Sitemap: https://rihyungame.github.io/sitemap.xml
